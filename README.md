@@ -86,7 +86,7 @@ Wireframes come in different levels of fidelity depending on their purpose in th
 
 ## Example Analysis: What Type of Wireframe is This?
 
-_(Note: Include a screenshot or link to your wireframe here.)_
+![Use Case Wireframe](Login_page.png)
 
 This example represents a **Low-Fidelity Wireframe** because:
 - It uses simple shapes and outlines
