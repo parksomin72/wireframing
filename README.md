@@ -95,3 +95,30 @@ This example represents a **Low-Fidelity Wireframe** because:
 
 If your wireframe is more detailed and includes UI elements like butt
 
+## Wireframing Tools
+
+There are several tools available to help designers create wireframes efficiently, ranging from basic drawing applications to advanced collaborative platforms. Choosing the right tool depends on the project stage, team needs, and level of fidelity required.
+
+### Popular Wireframing Tools
+
+- **Figma**: A browser-based design and prototyping tool with powerful real-time collaboration features.
+- **Balsamiq**: Ideal for low-fidelity wireframes; provides a sketch-like look and feel.
+- **Adobe XD**: Offers wireframing, UI design, and prototyping in one application.
+- **Sketch**: A vector-based design tool popular for high-fidelity UI design and wireframing (Mac-only).
+- **Whimsical**: Great for fast, collaborative low-fidelity wireframes and user flows.
+
+### Why Use Figma?
+
+Figma stands out as one of the most widely used tools in the industry for both beginners and professionals. Here's why:
+
+- **Web-Based & Cross-Platform**: No need to install software. It runs directly in the browser and supports Windows, macOS, and Linux.
+- **Real-Time Collaboration**: Multiple team members can work on the same design file simultaneously, similar to Google Docs.
+- **Intuitive Interface**: Easy to learn and use, even for those new to design.
+- **Version History**: Tracks all changes made to files, allowing you to revert or compare versions.
+- **Component System**: Enables reuse of design elements (buttons, cards, layouts) to maintain consistency.
+- **Prototyping**: Allows you to link frames and create interactive flows without leaving the design tool.
+- **Community Resources**: Offers thousands of free templates, icons, and UI kits.
+
+Figma’s balance of simplicity, power, and collaboration makes it an excellent choice for creating both low-fidelity and high-fidelity wireframes.
+
+
