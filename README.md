@@ -143,7 +143,7 @@ Wireframes make abstract ideas concrete, allowing everyone involved to see and d
 
 ### 2. Saves Time and Resources
 
-Catching design issues at the wireframe stage is faster and cheaper than during development. Adjustments made to a wireframe take minutes—compared to hours or days when made in code.
+Catching design issues at the wireframe stage is faster and cheaper than during development. Adjustments made to a wireframe take minutes. compared to hours or days when made in code.
 
 **Example**: By identifying that users need quicker access to search features during the wireframe review, a team can avoid reworking an entire navigation component after development has started.
 
@@ -151,7 +151,7 @@ Catching design issues at the wireframe stage is faster and cheaper than during 
 
 Wireframes prioritize user needs by focusing on layout, navigation, and content hierarchy before visual elements are added.
 
-**Example**: A UX designer might notice that a "Sign Up" button is buried at the bottom of a wireframe, and suggest moving it above the fold to improve conversions—before any design is finalized.
+**Example**: A UX designer might notice that a "Sign Up" button is buried at the bottom of a wireframe, and suggest moving it above the fold to improve conversions. before any design is finalized.
 
 ### 4. Bridges the Gap Between Design and Development
 
@@ -163,11 +163,11 @@ Wireframes provide developers with a clear blueprint of expected functionality a
 
 Wireframing helps identify usability issues and feature gaps early in the process, which prevents costly revisions later.
 
-**Example**: During wireframe reviews, a team might realize that the user flow for resetting a password is unclear—this can be corrected before building backend logic.
+**Example**: During wireframe reviews, a team might realize that the user flow for resetting a password is unclear. this can be corrected before building backend logic.
 
 ---
 
-Wireframes are not just a design tool—they're a strategic asset in the software development process, supporting better decision-making, smoother collaboration, and higher-quality outcomes.
+Wireframes are not just a design tool. they're a strategic asset in the software development process, supporting better decision-making, smoother collaboration, and higher-quality outcomes.
 
 ## Wireframing in Practice
 
