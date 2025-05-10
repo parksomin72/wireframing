@@ -1,3 +1,13 @@
+## Table of Contents
+- [What is Wireframing?](#what-is-wireframing)
+- [Why is Wireframing Important?](#why-is-wireframing-important)
+- [Low-Fidelity vs High-Fidelity Wireframes](#low-fidelity-vs-high-fidelity-wireframes)
+- [Key Elements of Wireframing](#key-elements-of-wireframing)
+- [Types of Wireframes](#types-of-wireframes)
+- [Wireframing Tools](#wireframing-tools)
+- [Benefits of Wireframing](#benefits-of-wireframing-in-software-development)
+- [Wireframing in Practice](#wireframing-in-practice)
+
 # Introduction to Wireframing
 
 ## What is Wireframing?
