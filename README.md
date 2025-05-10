@@ -51,3 +51,47 @@ A good wireframe includes essential elements that define how users will interact
 **Example**: A clickable button that opens a modal form, or a search bar that filters results in real time.  
 **Contribution**: Defines user interactions early and helps plan for development needs and technical constraints.
 
+## Types of Wireframes
+
+Wireframes come in different levels of fidelity depending on their purpose in the design process. The two main types are:
+
+### Low-Fidelity Wireframes
+
+**Definition**: These are basic sketches or rough layouts used to represent the structure of a design. They are usually grayscale and focus more on layout than visuals or interactivity.
+
+**Characteristics**:
+- Simple, block-style design
+- No colors, images, or real content
+- Placeholder text and icons
+- Focused on layout and content hierarchy
+
+**When to Use**:
+- In the early stages of the design process
+- For brainstorming and quick iterations
+- To gather early feedback from stakeholders
+
+### High-Fidelity Wireframes
+
+**Definition**: These are detailed representations that closely resemble the final product in terms of layout, design, and functionality. They may include real images, typography, and interactive elements.
+
+**Characteristics**:
+- Full visual detail (colors, fonts, branding)
+- Interactive components like dropdowns or buttons
+- Real or near-real content
+
+**When to Use**:
+- In later stages of the design process
+- For usability testing and developer handoff
+- To demonstrate final concepts to stakeholders
+
+## Example Analysis: What Type of Wireframe is This?
+
+_(Note: Include a screenshot or link to your wireframe here.)_
+
+This example represents a **Low-Fidelity Wireframe** because:
+- It uses simple shapes and outlines
+- There is no color, branding, or detailed content
+- It focuses on layout and page structure rather than appearance or interaction
+
+If your wireframe is more detailed and includes UI elements like butt
+
